@@ -29,6 +29,7 @@
 
 ## Parameters Used
 | Parameter | Description | Value |
+|----------|------------|------|
 | S0 | Initial S&P 500 value | 7408 |
 | K | Strike Price | 7408 |
 | B | Barrier Level | Variable |
